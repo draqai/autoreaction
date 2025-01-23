@@ -1,3 +1,9 @@
 name = "yoitapbot"
 main = "api/worker.js"
 compatibility_date = "2024-06-02"
+[vars]
+BOT_TOKEN = "7755936373:AAGpeQ7Arxee288t4HhXwfs15wtWOkZNHmI"
+BOT_USERNAME = "yoitapbot"
+EMOJI_LIST = "👍❤🔥🥰👏😁🎉🤩🙏👌🕊😍🐳❤‍🔥💯⚡🏆"
+RANDOM_LEVEL = "2"
+RESTRICTED_CHATS = "1234,5678"
