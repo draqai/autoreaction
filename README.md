@@ -12,7 +12,7 @@
 </div>
 <h4 align="center">✨ Automate Your Telegram Chats with this Auto Reaction Bot! React to Messages Effortlessly! 🚀</h4>
 <div align="center">
-  Serverless deployment on Cloudflare - Free
+  Serverless deployment on Cloudflare -
   <br />
   <br />
   <a href="https://core.telegram.org/bots/api#setmessagereaction">Telegram API</a>
